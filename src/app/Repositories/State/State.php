@@ -3,6 +3,8 @@
 namespace Panorama\Repositories\State;
 
 
+use Panorama\Repositories\Model;
+
 class State extends Model
 {
 
